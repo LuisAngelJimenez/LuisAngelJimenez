@@ -4,7 +4,15 @@
 ## my name is Luis Angel Castellanos Jiménez
 
 
->Once you realize how much you are worth in this life, just when you need a big star to shine on you
+**LuisAngelJimenez/LuisAngelJimenez**
+
+- 🌱 I’m currently learning new agile methodologies for working in medium and large teams 
+- 👯 I’m looking to collaborate on companies interested in personal empowerment and activity inside and outside Mexico
+- 🤔 I’m looking for help with new development and learning opportunities to be able to project myself in a better way.
+- 📫 How to reach me:
+  telephone number: +52 9516145382
+  email: luisangelastellanos003@gmail.com
+  linkedin: https://www.linkedin.com/in/luis-angel-castellanos-jim%C3%A9nez-9435b426a/
 
 
 ### Programming Languages:
@@ -28,17 +36,5 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
 ![Arduino](https://img.shields.io/badge/-Arduino-000?&logo=Arduino)
 
-<!--
-**LuisAngelJimenez/LuisAngelJimenez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+>Once you realize how much you are worth in this life, just when you need a big star to shine on you
