@@ -4,7 +4,7 @@
 ## my name is Luis Angel Castellanos Jiménez
 
 
-**LuisAngelJimenez/LuisAngelJimenez**
+**LuisAngelJimenez**
 
 - 🌱 I’m currently learning new agile methodologies for working in medium and large teams 
 - 👯 I’m looking to collaborate on companies interested in personal empowerment and activity inside and outside Mexico
